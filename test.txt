@@ -1,1 +1,11 @@
 This is my first text file in git
+
+This is my text file in git
+This is my first text file in git
+
+This is my first text file in git
+
+This is my first text file in git
+
+This is my first text file in git
+
